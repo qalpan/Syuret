@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.724mm"
+   height="3.688mm"
+   viewBox="0 0 3.724 3.688"
+   version="1.1"
+   id="svg1742"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="skype.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1744"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.6654652"
+     inkscape:cx="122.49468"
+     inkscape:cy="24.826316"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1739" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path292-9-4-3"
+       clip-path="none"
+       style="font-variation-settings:'wdth' 75, 'wght' 800;fill:#ffffff;stroke:#858474;stroke-width:0.266;stroke-dasharray:none"
+       d="M 1.967209,1.0501047 A 0.91710448,0.91710466 0 0 1 1.050104,1.9672093 0.91710448,0.91710466 0 0 1 0.133,1.0501047 0.91710448,0.91710466 0 0 1 1.050104,0.133 0.91710448,0.91710466 0 0 1 1.967209,1.0501047 Z" />
+    <path
+       id="path292-9-2"
+       clip-path="none"
+       style="font-variation-settings:'wdth' 75, 'wght' 800;display:inline;fill:#ffffff;stroke:#858474;stroke-width:0.266;stroke-dasharray:none"
+       d="M 3.591413,2.6383296 A 0.91710448,0.91710466 0 0 1 2.674309,3.5554342 0.91710448,0.91710466 0 0 1 1.757204,2.6383296 0.91710448,0.91710466 0 0 1 2.674309,1.7212249 0.91710448,0.91710466 0 0 1 3.591413,2.6383296 Z" />
+    <path
+       id="path292-0"
+       clip-path="none"
+       style="font-variation-settings:'wdth' 75, 'wght' 800;fill:#ffffff;stroke:#858474;stroke-width:0.357;stroke-dasharray:none"
+       d="M 3.312149,1.8331724 A 1.4216446,1.4216447 0 0 1 1.890505,3.2548171 1.4216446,1.4216447 0 0 1 0.46886,1.8331724 1.4216446,1.4216447 0 0 1 1.890505,0.4115277 1.4216446,1.4216447 0 0 1 3.312149,1.8331724 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0.43;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;display:inline;fill:#858474;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       x="1.3467531"
+       y="2.6675637"
+       id="text1060-6"><tspan
+         sodipodi:role="line"
+         id="tspan1058-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#858474;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="1.3467531"
+         y="2.6675637">s</tspan></text>
+  </g>
+</svg>

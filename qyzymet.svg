@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg677"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="qyzymet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview679"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3902192"
+     inkscape:cx="174.43293"
+     inkscape:cy="137.38841"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs674" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 0,0 H 24.00001 V 23.999987 H 0 Z"
+       style="display:inline;fill:#ffffff;stroke-width:0.264583"
+       id="path1179-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#878678;stroke-width:2.49068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.49991,19.947204 h 13.41917 c 5.04671,0 4.53983,-4.03071 7.55609,-4.03071"
+       id="path5828-3-04"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#878678;stroke-width:2.65007;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15340"
+       width="15.784873"
+       height="11.920232"
+       x="2.5353944"
+       y="4.7626901"
+       ry="5.4155531"
+       rx="5.2574792" />
+    <path
+       d="M 15.134821,37.240031 H 100.80691 V 61.240018 H 15.134821 Z"
+       style="display:inline;fill:#ffffff;stroke-width:0.499892"
+       id="path1179-4-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#878678;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="39.829021"
+       y="49.791615"
+       id="text963-9"><tspan
+         sodipodi:role="line"
+         id="tspan961-2"
+         style="font-size:14.1111px;line-height:1.25;text-align:start;text-anchor:start;fill:#878678;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="39.829021"
+         y="49.791615">Qyzymet</tspan><tspan
+         sodipodi:role="line"
+         style="line-height:0.6;text-align:start;text-anchor:start;fill:#878678;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="39.829021"
+         y="58.389511"
+         id="tspan965-2"> kөrsetiu</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#878678;stroke-width:2.49068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.6"
+       d="m 16.634731,57.187235 h 13.41917 c 5.04671,0 4.53983,-4.03071 7.55609,-4.03071"
+       id="path5828-3-04-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#878678;stroke-width:2.65007;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.7"
+       id="rect15340-7"
+       width="15.784873"
+       height="11.920232"
+       x="17.670216"
+       y="42.00272"
+       ry="5.4155531"
+       rx="5.2574792" />
+  </g>
+</svg>

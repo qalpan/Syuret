@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3902192"
-     inkscape:cx="174.43293"
-     inkscape:cy="137.38841"
+     inkscape:cx="175.87155"
+     inkscape:cy="79.843524"
      inkscape:window-width="1600"
      inkscape:window-height="852"
      inkscape:window-x="0"
@@ -45,13 +45,13 @@
        id="path1179-4"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:none;stroke:#878678;stroke-width:2.49068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#6b470f;stroke-width:2.49068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1.49991,19.947204 h 13.41917 c 5.04671,0 4.53983,-4.03071 7.55609,-4.03071"
        id="path5828-3-04"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <rect
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#878678;stroke-width:2.65007;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#6b470f;stroke-width:2.65007;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect15340"
        width="15.784873"
        height="11.920232"
@@ -93,6 +93,21 @@
        height="11.920232"
        x="17.670216"
        y="42.00272"
+       ry="5.4155531"
+       rx="5.2574792" />
+    <path
+       style="display:inline;fill:none;stroke:#6b470f;stroke-width:2.49068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 58.415068,16.180385 h 13.419174 c 5.046707,0 4.539827,-4.030708 7.556097,-4.030708"
+       id="path5828-3-04-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#6b470f;stroke-width:2.65007;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15340-75"
+       width="15.784873"
+       height="11.920232"
+       x="58.921391"
+       y="0.99586815"
        ry="5.4155531"
        rx="5.2574792" />
   </g>

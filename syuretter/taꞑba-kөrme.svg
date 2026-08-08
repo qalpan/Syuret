@@ -7,7 +7,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg17361"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="taꞑba-kөrme.svg"
    inkscape:export-filename="/home/m/Жүктемелер/taңba-tauar.png"
    inkscape:export-xdpi="96"
@@ -26,16 +26,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.108143"
-     inkscape:cx="94.911978"
-     inkscape:cy="69.65574"
-     inkscape:window-width="1600"
-     inkscape:window-height="848"
+     inkscape:zoom="6.2055683"
+     inkscape:cx="36.257759"
+     inkscape:cy="30.939954"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer1067"
-     units="px" />
+     units="px"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs17358" />
   <g
@@ -76,13 +78,13 @@
        id="Layer1067"
        transform="matrix(0.18667816,0,0,0.18667837,-68.669188,-36.992851)">
       <path
-         d="m 412.2543,220.5241 c -25.3263,3.9985 -33.768,19.9061 -36.2574,29.2365 -2.1769,8.0863 -1.5543,21.3721 16.5292,21.817 5.8651,0 22.9274,-0.0442 36.922,0 17.3746,0.0441 22.2176,-13.8632 21.818,-25.8154 -0.7605,-21.7028 -20.2938,-28.1658 -39.0118,-25.2381 z"
-         style="fill:none;stroke:#6b470f;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         d="m 412.24082,218.82481 c -26.28543,4.03275 -35.04684,20.0766 -37.63052,29.48691 -2.25933,8.15557 -1.61316,21.55516 17.15519,22.00388 6.08722,0 23.79569,-0.0445 38.32029,0 18.0326,0.0444 23.05901,-13.98194 22.64427,-26.03652 -0.78929,-21.88869 -21.06235,-28.40704 -40.48923,-25.45427 z"
+         style="fill:#878678;stroke:#878678;stroke-width:11.6007;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          id="path1181"
          inkscape:connector-curvature="0" />
       <path
-         d="m 388.736,251.2708 c 0,-5.4616 4.4597,-9.9213 9.9213,-9.9213 5.4615,0 9.9213,4.4597 9.9213,9.9213 0,5.4616 -4.4598,9.9213 -9.9213,9.9213 -5.4616,0 -9.9213,-4.4597 -9.9213,-9.9213 z"
-         style="opacity:0.6;fill:#6b470f;fill-rule:evenodd"
+         d="m 387.83185,249.83486 c 0,-5.50837 4.6286,-10.00627 10.29703,-10.00627 5.66835,0 10.29704,4.4979 10.29704,10.00627 0,5.50839 -4.62869,10.00629 -10.29704,10.00629 -5.66843,0 -10.29703,-4.4979 -10.29703,-10.00629 z"
+         style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:1.02312;stroke:#ffffff"
          id="path1183"
          inkscape:connector-curvature="0" />
     </g>
